@@ -17,6 +17,8 @@
 ## 📚 개발 환경
 
 > 기술 스택 :  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 > <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 > <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 > <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -40,5 +42,5 @@
 ## 👥 멤버
 |서연미| 이지영 | 이유진 | 김재니 | 류슬기 | 유다현 |한수연|
 |:---:|:---------:|:---:|:---:|:---:|:---:|:---:|
-| (이미지준비중)| <img src="https://user-images.githubusercontent.com/65756225/208081475-0b5e5188-bef9-4ace-9b02-48360988f57f.png" width="200px" /> |(이미지준비중) |(이미지준비중) |(이미지준비중) | (이미지준비중)|(이미지준비중) |<img src="https://user-images.githubusercontent.com/102225686/223655776-ed87384a-6a64-4477-98a7-c162621bc880.png" width="200px" />|(이미지준비중) |
-| *기획* | *백엔드<br>결제시스템, 작품게시CRUD* | *백엔드<br>회원가입, 로그인* | *백엔드<br> 관심기능* |*프론트엔드*|*프론트엔드*|*백엔드<br>관심기능, 회원가입*|
+| (이미지준비중)| <img src="https://user-images.githubusercontent.com/65756225/208081475-0b5e5188-bef9-4ace-9b02-48360988f57f.png" width="100px" /> |(이미지준비중) |(이미지준비중) |(이미지준비중) | (이미지준비중)|(이미지준비중) | <img src="https://user-images.githubusercontent.com/102225686/223655776-ed87384a-6a64-4477-98a7-c162621bc880.png" width="100px" /> |(이미지준비중) |
+| *기획* | *백엔드<br>결제시스템, 작품게시CRUD* | *백엔드<br>회원가입, 로그인* | *백엔드<br> 관심기능* |*프론트엔드*| *프론트엔드* |*백엔드<br>관심기능, 회원가입*|
